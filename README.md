@@ -1,3 +1,3 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/it/view/felix-argyle-gif-11149329" width="100"/>
+  <img src="https://media1.tenor.com/m/LbQNdE7GlM4AAAAC/felix-argyle.gif" width="100"/>
 </div>
