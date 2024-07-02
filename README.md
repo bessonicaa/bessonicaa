@@ -12,7 +12,7 @@
 
 ### :woman_technologist: About Me:
 - 👻 I'm a femboy python developer
-- 👩‍💻 I love work with api and develop them!
+- 👩‍💻 I love work with api or blockchains and develop them!
 - 🪀 Sometimes i can also write small scripts or bots for Telegram or Discord just for fun :3
 
 ---
@@ -21,6 +21,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain.svg" title="fastapi" alt="fastapi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
 </div>
 
 ---
