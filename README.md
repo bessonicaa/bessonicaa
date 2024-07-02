@@ -13,7 +13,7 @@
 ### :woman_technologist: About Me:
 - 👻 I'm a femboy python developer
 - 👩‍💻 I love work with api or blockchains and develop them!
-- 🪀 Sometimes i can also write small scripts or bots for Telegram or Discord just for fun :3
+- 🪀 Sometimes I can also write small scripts or bots for Telegram or Discord just for fun :3
 
 ---
 
